@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently looking for cool symfony project
+- 👉 Actually freelance, available for Missions
+- 🍹 Explore my projects on github
+- 🚨 Don't hesitate to contact me !
+  
 <!--
 **canyonx/canyonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
